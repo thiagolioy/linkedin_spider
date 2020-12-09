@@ -1,0 +1,9 @@
+# xlsxwriter
+openpyxl
+requests
+beautifulsoup4
+# lzma
+selenium  
+# time 
+parsel
+# csv
